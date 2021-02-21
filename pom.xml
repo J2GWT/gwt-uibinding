@@ -20,7 +20,7 @@
   <!-- POM file generated with GWT webAppCreator -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>ir.moke</groupId>
-  <artifactId>gwt</artifactId>
+  <artifactId>gwt-uibinding</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>ir.moke.gwt</name>
